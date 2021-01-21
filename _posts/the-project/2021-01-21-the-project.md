@@ -9,9 +9,4 @@ tags: []
 categories: []
 layout: post
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+This server was created with Raspberry pi4 (4gb of RAM) and Balena cloud. The site of the project is: <https://www.balena.io/blog/how-to-create-a-minecraft-server-for-the-pi-4-with-balena/> .
